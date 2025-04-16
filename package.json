@@ -1,0 +1,27 @@
+{
+  "name": "dish-ai-commit-website",
+  "version": "1.0.0",
+  "description": "Dish AI Commit Gen 官方文档",
+  "main": "index.js",
+  "scripts": {
+    "fetch-changelog": "node scripts/fetch-changelog.js",
+    "prepublish": "npm run fetch-changelog && npm run docs:build",
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "keywords": [
+    "ai",
+    "commit",
+    "vscode",
+    "extension",
+    "git",
+    "svn"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.6.3",
+    "vue": "^3.3.4"
+  }
+}
