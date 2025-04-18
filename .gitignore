@@ -4,10 +4,9 @@ dist/
 .cache/
 
 # 构建输出
-.vitepress/dist/
-.vitepress/cache/
+docs/.vitepress/dist/
+docs/.vitepress/cache/
 
-docs/.vitepress
 
 # 日志文件
 *.log
