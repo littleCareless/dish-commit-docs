@@ -3,6 +3,7 @@ export default {
   description: "使用 AI 生成标准化 Git/SVN 提交消息的 VSCode 扩展",
   lang: "zh-CN",
   lastUpdated: true,
+  base: "dish-commit-docs/",
 
   head: [
     ["link", { rel: "icon", href: "/images/logo.png" }],
