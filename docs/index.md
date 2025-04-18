@@ -37,6 +37,9 @@ features:
   - icon: 😄
     title: 智能表情符号
     details: 自动添加符合提交类型的表情符号，使提交消息更加生动直观
+  - icon: 📝
+    title: 分层提交消息
+    details: 支持生成分层提交消息，包含全局摘要和每个文件的详细描述
 ---
 
 <div class="custom-container tip" style="text-align: center; margin-top: 30px;">

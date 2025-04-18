@@ -6,6 +6,18 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/zh-CN/1.0.0/)。
 
+# 0.12.4 (2025-05-12)
+
+### ✨ Features
+
+- **commit**: 添加分层提交消息功能 ([e4c9d21](https://github.com/littleCareless/dish-ai-commit/commit/e4c9d21))
+- **vscode**: 更新 VS Code 引擎要求至 1.92.0 ([f7b3a1e](https://github.com/littleCareless/dish-ai-commit/commit/f7b3a1e))
+
+### 🎫 Chores
+
+- **deps**: 更新依赖包版本 ([a2b3c4d](https://github.com/littleCareless/dish-ai-commit/commit/a2b3c4d))
+- **pkg**: 更新 package.json 配置和脚本 ([e5f6g7h](https://github.com/littleCareless/dish-ai-commit/commit/e5f6g7h))
+
 # 0.12.0 (2025-04-14)
 
 ### ✨ Features
@@ -70,7 +82,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/zh-CN/1.0.0
 
 ### 📝 Documentation
 
-- **changelog**: 更新 v0.11.0 版本���更日志 ([dc2b855](https://github.com/littleCareless/dish-ai-commit/commit/dc2b855))
+- **changelog**: 更新 v0.11.0 版本变更日志 ([dc2b855](https://github.com/littleCareless/dish-ai-commit/commit/dc2b855))
 - **readme**: 更新文档支持多平台 AI 服务和新功能说明 ([f89b8e1](https://github.com/littleCareless/dish-ai-commit/commit/f89b8e1))
 
 # 0.11.0 (2025-04-10)
@@ -458,7 +470,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/zh-CN/1.0.0
 - **ai**: 增强 AI 提供商管理系统 ([1b36a48](https://github.com/littleCareless/dish-ai-commit/commit/1b36a48))
 - **commitlint**: 简化提交消息类型配置 ([0dad6c2](https://github.com/littleCareless/dish-ai-commit/commit/0dad6c2))
 - **config**: 完善项目配置文件 ([f9bd1e2](https://github.com/littleCareless/dish-ai-commit/commit/f9bd1e2))
-- 更新配置和项目结��� ([ae2507b](https://github.com/littleCareless/dish-ai-commit/commit/ae2507b))
+- 更新配置和项目结构 ([ae2507b](https://github.com/littleCareless/dish-ai-commit/commit/ae2507b))
 
 ### 🐛 Bug Fixes
 

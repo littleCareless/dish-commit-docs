@@ -2,9 +2,9 @@
 
 ## 什么是 Dish AI Commit Gen？
 
-Dish AI Commit Gen 是一个 VSCode 扩展，它使用 AI 技术帮助开发者自动生成标准化的 Git 和 SVN 提交消息。本扩展旨在解决团队协作中提交消息不规范、不一致的问题，提高代码库的可维护性。
+Dish AI Commit Gen 是一个 VSCode 扩展，它使用 AI 技术帮助开发者自动生成标准化的 Git 和 SVN 提交消息。本扩展旨在解决团队协作中提交消息不规范、不一致的问题，提高代码库的可维护性。当前版本 0.12.4 支持多种 AI 服务提供商，以及周报生成、分支名称生成、代码审查等功能，为开发者提供全方位的 AI 辅助工具。
 
-![演示](../images/demo.gif)
+扩展支持多种 AI 提供商，包括 OpenAI、Ollama、VSCode 内置 AI (GitHub Copilot)、智谱 AI (GLM-4)、DashScope (通义千问)、Gemini AI、豆包 AI、Deepseek AI、SiliconFlow 和 OpenRouter，满足不同区域和使用场景的需求。
 
 ## 核心功能
 

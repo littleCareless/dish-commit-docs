@@ -4,14 +4,14 @@
 
 ## 安装扩展
 
-1. 打开 VS Code
+1. 打开 VS Code (需要 VS Code 1.92.0 或更高版本)
 2. 转到扩展视图（按 `Ctrl+Shift+X` 或 `Cmd+Shift+X`）
 3. 在搜索框中输入 "Dish AI Commit"
 4. 点击 "安装" 按钮
 
 或者，您也可以直接从 [VS Code 市场](https://marketplace.visualstudio.com/items?itemName=littleCareless.dish-ai-commit) 安装。
 
-![安装扩展](../images/install.png)
+安装后，您将可以访问多种功能，包括提交消息生成、周报生成、代码审查和分支名称生成等。
 
 ## 配置 AI 服务
 
