@@ -19,24 +19,27 @@ hero:
       link: https://marketplace.visualstudio.com/items?itemName=littleCareless.dish-ai-commit
 
 features:
+  - icon: ✨
+    title: 函数调用
+    details: 通过函数调用精确生成提交信息，结果更稳定、更可控
+  - icon: 🧠
+    title: 代码语义搜索
+    details: 对工作区代码进行索引，为 AI 提供全项目上下文，生成更高质量的提交
   - icon: 🤖
     title: 多平台 AI 支持
-    details: 支持 OpenAI、Ollama、VSCode 内置 AI、智谱 AI、DashScope、Gemini AI 等多种 AI 服务
-  - icon: 🌍
-    title: 多语言支持
-    details: 支持 19 种不同语言的提交消息生成，适应全球开发者需求
+    details: 支持 OpenAI、Ollama、VSCode 内置 AI、智谱 AI、DashScope、Gemini AI 等多种 AI 服务，并支持函数调用
   - icon: 🎨
     title: 符合规范
-    details: 自动生成的提交消息符合 Conventional Commits 规范，提升代码库的可维护性
+    details: 自动生成的提交消息符合 Conventional Commits 规范，并提供提示词长度限制显示，提升代码库的可维护性
   - icon: 📊
     title: 周报生成
-    details: 智能分析您的提交记录，自动生成高质量周报，提升工作汇报效率
+    details: 智能分析提交记录，一键生成高质量周报，显著提升工作汇报效率
   - icon: 🌿
     title: 分支名称生成
-    details: 基于需求描述自动生成符合规范的分支名称，保持团队命名统一
+    details: 根据需求描述自动生成规范的分支名称，确保团队命名风格统一
   - icon: 😄
     title: 智能表情符号
-    details: 自动添加符合提交类型的表情符号，使提交消息更加生动直观
+    details: 自动添加符合提交类型的表情符号，让提交消息生动直观
   - icon: 📝
     title: 分层提交消息
     details: 支持生成分层提交消息，包含全局摘要和每个文件的详细描述

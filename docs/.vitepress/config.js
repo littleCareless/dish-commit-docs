@@ -44,6 +44,7 @@ export default {
           items: [
             { text: "介绍", link: "/guide/" },
             { text: "快速开始", link: "/guide/getting-started" },
+            { text: "代码库索引", link: "/guide/code-indexing" },
             { text: "AI 提供商", link: "/guide/ai-providers" },
             { text: "多语言支持", link: "/guide/languages" },
             { text: "提交消息生成", link: "/guide/commit-message-generation" },
@@ -73,6 +74,7 @@ export default {
           text: "配置",
           items: [
             { text: "基础配置", link: "/config/" },
+            { text: "详细配置", link: "/config/configuration" },
             { text: "AI 提供商配置", link: "/config/ai-providers" },
             { text: "功能配置", link: "/config/features" },
             { text: "命令", link: "/config/commands" },
