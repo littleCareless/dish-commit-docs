@@ -48,6 +48,7 @@ export default {
             { text: "AI 提供商", link: "/guide/ai-providers" },
             { text: "多语言支持", link: "/guide/languages" },
             { text: "提交消息生成", link: "/guide/commit-message-generation" },
+            { text: "PR 摘要生成", link: "/guide/pr-summary" },
             { text: "周报生成", link: "/guide/weekly-report" },
             { text: "分支名称生成", link: "/guide/branch-name" },
           ],

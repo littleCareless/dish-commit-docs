@@ -96,7 +96,7 @@ SiliconFlow 是一个高性能 AI 推理平台，支持多种模型。
 - **适用场景**：需要灵活选择模型的团队
 - **模型选项**：请参考 SiliconFlow 官方文档
 
-[配置 SiliconFlow >](../config/ai-providers#更多-ai-提供商)
+[配置 SiliconFlow >](../config/ai-providers#siliconflow)
 
 ### OpenRouter
 
@@ -106,7 +106,7 @@ OpenRouter 是一个开源 AI 路由服务，支持多种模型的访问。
 - **适用场景**：需要经常切换模型的开发者
 - **模型选项**：OpenRouter 支持的全部模型
 
-[配置 OpenRouter >](../config/ai-providers#更多-ai-提供商)
+[配置 OpenRouter >](../config/ai-providers#openrouter)
 
 ## 选择适合您的 AI 提供商
 

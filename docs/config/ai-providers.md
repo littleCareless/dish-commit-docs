@@ -153,6 +153,16 @@ Dish AI Commit Gen 还支持以下 AI 提供商：
 
 ### SiliconFlow
 
+SiliconFlow 是一个高性能的 AI 推理平台，支持多种开源模型。
+
+#### 配置参数
+
+| 配置项                                     | 类型   | 默认值 | 描述                  |
+| ------------------------------------------ | ------ | ------ | --------------------- |
+| dish-ai-commit.providers.siliconflow.apiKey | string | ""     | SiliconFlow API 密钥  |
+
+#### 配置示例
+
 ```json
 {
   "dish-ai-commit.base.provider": "siliconflow",
@@ -160,7 +170,23 @@ Dish AI Commit Gen 还支持以下 AI 提供商：
 }
 ```
 
+#### 如何获取 API 密钥
+
+1.  访问 [SiliconFlow 官方网站](https://siliconflow.cn/)
+2.  注册或登录您的账户
+3.  在您的账户设置中找到 API 密钥
+
 ### OpenRouter
+
+OpenRouter 是一个 AI 模型路由服务，允许您通过单个 API 访问来自不同提供商的多种模型。
+
+#### 配置参数
+
+| 配置项                                     | 类型   | 默认值 | 描述                |
+| ------------------------------------------ | ------ | ------ | ------------------- |
+| dish-ai-commit.providers.openrouter.apiKey | string | ""     | OpenRouter API 密钥 |
+
+#### 配置示例
 
 ```json
 {
@@ -168,6 +194,12 @@ Dish AI Commit Gen 还支持以下 AI 提供商：
   "dish-ai-commit.providers.openrouter.apiKey": "您的OpenRouter API密钥"
 }
 ```
+
+#### 如何获取 API 密钥
+
+1.  访问 [OpenRouter 官方网站](https://openrouter.ai/)
+2.  注册或登录您的账户
+3.  在您的账户设置中找到并创建 API 密钥
 
 ## 切换 AI 提供商
 

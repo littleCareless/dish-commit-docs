@@ -110,6 +110,8 @@ Dish AI Commit Gen 提供了两种配置方式，以满足不同场景的需求�
 您可以为不同的功能提供自定义的系统提示语。
 
 - **`dish-ai-commit.features.commitMessage.systemPrompt`**: 提交信息生成的系统提示。
+- **`dish-ai-commit.features.commitMessage.useRecentCommitsAsReference`**: 是否使用最近的提交作为生成提交信息的参考。
+  - **默认值**: `false`
 - **`dish-ai-commit.features.weeklyReport.systemPrompt`**: 生成周报的系统提示。
 - **`dish-ai-commit.features.codeReview.systemPrompt`**: 代码审查的系统提示。
 - **`dish-ai-commit.features.branchName.systemPrompt`**: 分支名称生成的系统提示。
